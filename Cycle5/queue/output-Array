@@ -1,0 +1,55 @@
+Output
+Enter the size of the queue: 5
+Choose Operation
+1. Enqueue
+2. Dequeue
+3. Display
+Press any other key to exit
+1
+Enter element to enqueue: 1
+added 1
+
+1
+Enter element to enqueue: 2
+added 2
+
+1
+Enter element to enqueue: 3
+added 3
+
+1
+Enter element to enqueue: 4
+added 4
+
+1
+Enter element to enqueue: 5
+added 5
+
+1
+Enter element to enqueue: 6
+Queue is full
+
+3
+1 2 3 4 5 
+
+
+2
+dequeued 1
+
+2
+dequeued 2
+
+2
+dequeued 3
+
+2
+dequeued 4
+
+2
+dequeued 5
+
+3
+queue is empty
+
+2
+queue is empty
