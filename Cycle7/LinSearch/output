@@ -1,0 +1,15 @@
+OUTPUT
+
+Enter number of elements in array
+5
+Enter 5 numbers
+2
+9
+4
+8
+3
+Enter a number to search
+4
+4 is present at location 3.
+4 is present 1 times in the array.
+
