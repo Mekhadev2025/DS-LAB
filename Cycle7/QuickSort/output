@@ -1,0 +1,17 @@
+
+OUTPUT:
+
+enter size of array:5
+enter elements:3
+8
+2
+5
+1
+Unsorted Array
+3  8  2  5  1
+Intermediate array
+1  8  2  5  3
+1  2  3  5  8
+1  2  3  5  8
+Sorted array in ascending order:
+1  2  3  5  8
