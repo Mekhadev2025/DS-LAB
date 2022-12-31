@@ -1,0 +1,17 @@
+Enter size for Array: 5
+Enter 5 array elements: 5
+2
+8
+9
+4
+
+Step 1: 2 5 8 9 4
+
+Step 2: 2 4 8 9 5
+
+Step 3: 2 4 5 9 8
+
+Step 4: 2 4 5 8 9
+
+Now the Array after sorting is:        
+2 4 5 8 9
