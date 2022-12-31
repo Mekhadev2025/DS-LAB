@@ -1,0 +1,51 @@
+
+Output
+
+
++---------------------------------------------------------+
+|  1 : Enqueue                                            |
+|  2 : Dequeue                                            |
+|  3 : Front                                              |
+|  4 : Rear                                               |
+|  5 : Display                                            |
+|  6 : exit                                               |
++---------------------------------------------------------+
+Choose a Option: 1
+Enter the Element: 1
+1 added to Queue
+Choose a Option: 1
+Enter the Element: 2
+2 added to Queue
+Choose a Option: 1
+Enter the Element: 3
+3 added to Queue
+Choose a Option: 1
+Enter the Element: 4
+4 added to Queue
+Choose a Option: 1
+Enter the Element: 5
+5 added to Queue
+Choose a Option: 1
+Enter the Element: 6
+Queue is Full
+Choose a Option: 3
+Front : 1
+Choose a Option: 4
+Rear : 5
+Choose a Option: 5
+Queue :1 2 3 4 5
+Choose a Option: 2
+1 removed from the Queue
+Choose a Option: 2
+2 removed from the Queue
+Choose a Option: 5
+Queue :3 4 5
+Choose a Option: 1
+Enter the Element: 1
+1 added to Queue
+Choose a Option: 1
+Enter the Element: 2
+2 added to Queue
+Choose a Option: 5
+Queue :3 4 5 1 2
+Choose a Option: 6
