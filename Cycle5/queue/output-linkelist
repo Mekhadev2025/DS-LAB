@@ -1,0 +1,44 @@
+Choose Operation
+1. enqueue
+2. dequeue
+3. Display
+Press any other key to exit
+1
+Enter element to enqueue: 1
+added 1
+
+1
+Enter element to enqueue: 2
+added 2
+
+1
+Enter element to enqueue: 3
+added 3
+
+1
+Enter element to enqueue: 4
+added 4
+
+3
+
+1 2 3 4 
+
+2
+dequeued 1
+
+2
+dequeued 2
+
+2
+dequeued 3
+
+2
+dequeued 4
+
+2
+queue is empty
+
+3
+
+queue is empty
+
