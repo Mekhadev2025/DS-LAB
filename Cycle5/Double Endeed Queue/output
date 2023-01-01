@@ -1,0 +1,122 @@
+1. Input Restricted Dequeue
+2.Output Restricted Dequeue
+3. Display
+4. Exit
+Enter your choice:1
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:1
+Enter the data to insert:9
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:1
+Enter the data to insert:8
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:1
+Enter the data to insert:7
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:4
+7  8  9  
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:2
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:4
+8  9  
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:3
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:4
+8  
+1. Enqueue at front
+2. Dequeue at front
+3. Dequeue at rear
+4. Display
+ 5. Exit
+Enter your choice:5
+1. Input Restricted Dequeue
+2.Output Restricted Dequeue
+3. Display
+4. Exit
+Enter your choice:2
+1. Enqueue at front
+2. Enqueue at rear
+3. Dequeue at Rear
+4. Display
+5. Exit
+Enter your choice:1
+Enter the data to insert:5
+1. Enqueue at front
+2. Enqueue at rear
+3. Dequeue at Rear
+4. Display
+5. Exit
+Enter your choice:4
+5  8  
+1. Enqueue at front
+2. Enqueue at rear
+3. Dequeue at Rear
+4. Display
+5. Exit
+Enter your choice:2
+Enter ur data to insert:3
+1. Enqueue at front
+2. Enqueue at rear
+3. Dequeue at Rear
+4. Display
+5. Exit
+Enter your choice:4
+5  8  3  
+1. Enqueue at front
+2. Enqueue at rear
+3. Dequeue at Rear
+4. Display
+5. Exit
+Enter your choice:3
+1. Enqueue at front
+2. Enqueue at rear
+3. Dequeue at Rear
+4. Display
+5. Exit
+Enter your choice:4
+5  8  
+1. Enqueue at front
+2. Enqueue at rear
+3. Dequeue at Rear
+4. Display
+5. Exit
+Enter your choice:5
+1. Input Restricted Dequeue
+2.Output Restricted Dequeue
+3. Display
+4. Exit
+Enter your choice:4
