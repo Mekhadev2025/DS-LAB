@@ -1,0 +1,120 @@
+#include<stdio.h>
+#include<stdlib.h>
+typedef struct node{
+int data;
+struct node *next;
+}Node;
+Node *head=NULL;
+Node *ptr=NULL;
+
+Node* createNode(int value)
+{
+Node *temp=(Node *)malloc(sizeof(Node));
+temp->data=value;
+temp->next=NULL;
+return temp;
+}
+ 
+
+void push(Node** head){
+
+int value;
+
+printf("Enter the value to be inserted to node\n");
+scanf("%d",&value);
+Node *temp=createNode(value);
+ if(*head==NULL)
+ {
+    *head=temp;
+    ptr=temp;
+}
+else 
+{
+ptr->next=temp;
+ptr=temp;
+
+}
+
+printf("inserted\n");
+}
+
+void pop(Node** head)
+ {
+Node *ptr=NULL;
+ptr=*head;
+Node *temp=NULL;
+if(*head==NULL){
+printf("stack is empty");
+return;
+}
+else if(ptr->next==NULL)
+{
+ptr=*head;
+printf("Popped %d \n ",ptr->data);
+free(ptr);
+*head=NULL;
+}
+else
+{
+ptr=*head;
+while(ptr->next!=NULL)
+{
+temp=ptr;
+ptr=ptr->next;
+}
+
+temp->next=NULL;
+printf("Popped %d \n ",ptr->data);
+free(ptr);
+}
+
+}
+void peek(Node** head)
+{
+ptr=*head;
+while(ptr->next!=NULL)
+{
+ptr=ptr->next;
+}
+printf("The Peek element is %d \n ",ptr->data);
+}
+
+void display(Node** head){
+ptr=*head;
+printf("STACK IS \n");
+while(ptr!=NULL)
+{
+printf("%d  \n",ptr->data); 
+ptr=ptr->next;
+}
+}
+
+
+int main(){
+int ch;
+int n=3;
+while(n!=0)
+{
+printf("\t\t\t\t\t MENU \t\t\t\t\n");
+printf("----------------------------\n");
+printf("1.Push to stack\n");
+printf("2.Pop from stack\n");
+printf("3.Display peek element\n");
+printf("4.Display the stack\n");
+printf("5.Exit\n");
+printf("Enter your choice.\n");
+scanf("%d",&ch);
+switch(ch){
+case 1:{push(&head);
+         break;}
+case 2 :{pop(&head);
+          break;}
+ case 3 :{peek(&head);break;}
+case 4:{display(&head);break;} 
+case 5:{ exit(0);break;}
+default:{printf("invalid choice \n");
+exit(0);
+}
+}
+}
+}
