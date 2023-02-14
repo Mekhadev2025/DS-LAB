@@ -1,0 +1,164 @@
+ MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+1
+Enter the value to be inserted to node
+4
+inserted
+					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+1
+Enter the value to be inserted to node
+6
+inserted
+					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+1
+Enter the value to be inserted to node
+7
+inserted
+					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+1
+Enter the value to be inserted to node
+4
+inserted
+					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+1
+Enter the value to be inserted to node
+9
+inserted
+					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+4
+STACK IS 
+4  
+6  
+7  
+4  
+9  
+					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+3
+The Peek element is 9 
+ 					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+2
+Popped 9 
+ 					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+2
+Popped 4 
+ 					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+2
+Popped 7 
+ 					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+2
+Popped 6 
+ 					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+2
+Popped 4 
+ 					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+2
+stack is empty					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+2
+stack is empty					 MENU 				
+----------------------------
+1.Push to stack
+2.Pop from stack
+3.Display peek element
+4.Display the stack
+5.Exit
+Enter your choice.
+5
+
+
